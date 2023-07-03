@@ -1,9 +1,9 @@
 #!/bin/sh
 # */AIPND-revision/intropyproject-classify-pet-images/run_models_batch.sh
 #                                                                             
-# PROGRAMMER: Sophy jeptoo
-# DATE CREATED: 01/07/2023                                  
-# REVISED DATE:  
+# PROGRAMMER: sophy jeptoo
+# DATE CREATED:                                
+# REVISED DATE:   
 # PURPOSE: Runs all three models to test which provides 'best' solution.
 #          Please note output from each run has been piped into a text file.
 #
